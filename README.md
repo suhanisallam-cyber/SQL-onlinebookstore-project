@@ -2,17 +2,17 @@
 
 This project is based on an Online Bookstore database created using MySQL.
 
-## 📌 Project Overview
+##  Project Overview
 
 The project contains data related to:
 
-- 📚 Books
-- 👥 Customers
-- 🛒 Orders
+-  Books
+-  Customers
+-  Orders
 
 SQL queries are used to retrieve, analyze, and understand the data from the bookstore database.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - MySQL
 - SQL
@@ -43,7 +43,7 @@ Contains information about orders such as:
 - Order Date
 - Quantity
 
-## 🔍 SQL Concepts Used
+##  SQL Concepts Used
 
 - SELECT
 - WHERE
@@ -59,7 +59,7 @@ Contains information about orders such as:
 - Aggregate Functions
 - Subqueries
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 - Retrieve useful information from the database
 - Analyze customer orders
@@ -67,6 +67,6 @@ Contains information about orders such as:
 - Analyze sales and book data
 - Practice SQL queries and database concepts
 
-## 🚀 Learning Outcome
+##  Learning Outcome
 
 Through this project, I practiced SQL querying, data retrieval, aggregation, and working with relational databases using MySQL.
