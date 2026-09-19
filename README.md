@@ -1,4 +1,4 @@
-# 📚 SQL Online Bookstore Project
+#  SQL Online Bookstore Project
 
 This project is based on an Online Bookstore database created using MySQL.
 
@@ -17,7 +17,7 @@ SQL queries are used to retrieve, analyze, and understand the data from the book
 - MySQL
 - SQL
 
-## 📊 Database Tables
+##  Database Tables
 
 ### 1. Books
 Contains information about books such as:
